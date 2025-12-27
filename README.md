@@ -1,6 +1,6 @@
-# QuizPPL Training
+# PPL Exam Trainer
 
-QuizPPL Training è un’estensione Chrome pensata per **studenti PPL(A) e PPL(H)** che utilizzano **QuizPPL**.  
+ PPL Exam Trainer è un’estensione Chrome pensata per **studenti PPL(A) e PPL(H)** che utilizzano **QuizPPL**.  
 L’obiettivo è aiutare lo studente a **migliorare sui propri punti deboli**, salvando le domande sbagliate e ripetendole in modo mirato.
 
 ⚠️ L’estensione è uno **strumento di studio**, non fornisce risposte automatiche e non è pensata per l’uso durante gli esami ufficiali.
@@ -27,7 +27,7 @@ La licenza può avere:
 ## 🔓 Come attivare la licenza
 
 1. Installa l’estensione dal Chrome Web Store
-2. Apri l’estensione cliccando sull’icona di **QuizPPL Training**
+2. Apri l’estensione cliccando sull’icona di ** PPL Exam Trainer**
 3. Inserisci la **License Key** nel campo dedicato
 4. Clicca su **“Verifica licenza”**
 5. Se la licenza è valida:
